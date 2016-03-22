@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 26 14:53:49 2015
-
-@author: Job Lindsen
-"""
-
-# Open modules
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
