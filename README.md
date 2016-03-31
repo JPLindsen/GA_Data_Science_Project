@@ -13,3 +13,14 @@ With 7 genres (Horror, Romance, Comedy, Sci-Fi, Thriller, Action, and Family), t
 Conclusion? The genre of a film can be to some extend predicted from low-level properties of its film poster, but classification seems to favour a more simple 2-class separation presumably based on brightness of the poster.
 
 =============================
+Python Libaries used:
+- sklearn
+- numpy
+- pandas
+- skimage
+- matplotlib
+- BeautifulSoup
+- urllib
+
+=============================
+This work was one as part of my final project for the excellent [Data Science](https://generalassemb.ly/education/data-science) course at [General Assembly](https://generalassemb.ly/).
